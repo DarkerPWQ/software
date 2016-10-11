@@ -1,0 +1,7 @@
+<RCC>
+  <qresource>
+    <file>D:/realpro/pic/1455558595715.jpg</file>
+    <file>D:/realpro/pic/t01b4af3abd3b808d7d.jpg</file>
+  </qresource>
+  <qresource prefix="新前缀"/>
+</RCC>

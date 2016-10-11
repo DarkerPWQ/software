@@ -1,0 +1,9 @@
+('D:\\realpro\\dist\\pwq.exe',
+ True,
+ False,
+ 'D:\\01.ico',
+ None,
+ [],
+ None,
+ False,
+ 1456039602L)
